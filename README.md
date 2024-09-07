@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pradana996
-- 👀 I’m interested in Coding and Cyber Security
-- 🌱 I’m currently learning Python, because I think it is good for me
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Python, because I think it is cool and simple.
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me pradana996@gmail.com
 - 😄 Pronouns: ...
